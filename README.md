@@ -4,7 +4,6 @@ A Full stack web application to help people post their queries or problems and g
 Prerequestites.
 
 Need Node Js and V.14^ of npm
-
 Internet connection
 
 USAGE
